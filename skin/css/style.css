@@ -341,7 +341,7 @@ h1,h2,h3,h4,h5{
 /* web define  */
 /* ========================================================================== */
 #home-link {  
-    background-image: url(https://cdn.jsdelivr.net/gh/cheny2000a/tcdn/skin/images/toolcomm.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/cheny2000b/metools/skin/images/toolcomm.png);
     background-position: 0px -58px;
     width: 225px;
     height: 36px;
@@ -352,7 +352,7 @@ h1,h2,h3,h4,h5{
 
 #nav-search {
 	background-repeat: no-repeat;
-	background-image: url(https://cdn.jsdelivr.net/gh/cheny2000a/tcdn/skin/images/toolcomm.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/cheny2000b/metools/skin/images/toolcomm.png);
 	background-position: -57px 9px;
 	pointer-events: auto;
 	cursor: pointer; 
@@ -496,7 +496,7 @@ h1,h2,h3,h4,h5{
 #page .item .icon.collected,
 .aside .icon.collect,
 .aside .icon.collected {
-  background: url(https://cdn.jsdelivr.net/gh/cheny2000a/tcdn/skin/images/toolcomm.png) -136px 0px no-repeat;
+  background: url(https://cdn.jsdelivr.net/gh/cheny2000b/metools/skin/images/toolcomm.png) -136px 0px no-repeat;
 }
 
 #page .item .icon.collect,
@@ -521,7 +521,7 @@ h1,h2,h3,h4,h5{
 .iconliked {
 	width: 16px;
     height: 16px;
-    background: url(https://cdn.jsdelivr.net/gh/cheny2000a/tcdn/skin/images/toolcomm.png) -100px -30px no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/cheny2000b/metools/skin/images/toolcomm.png) -100px -30px no-repeat;
     display: inline-block;
     vertical-align: text-bottom;
 }
