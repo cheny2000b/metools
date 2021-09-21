@@ -1,3 +1,6 @@
+var spec_char_n = "\n";
+var spec_char_rn = "\r\n";
+
 function jqueryinitwait(callback)
 {
 	if(callback == null) return;
